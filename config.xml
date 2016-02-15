@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.qversoft.qufo" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.epinfoways.efos" version="1.0.0">
   <name>Qufo</name>
   <description>This is way awesome.</description>
   <author href="http://qversoft.com" email="anmol@qversoft.com">Qversoft Team</author>
