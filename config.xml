@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.epinfoways.efos" version="1.0.0">
-  <name>EFOS</name>
+  <name>EFOS App</name>
   <description>EFOS Test App</description>
   <author href="http://qversoft.com" email="anmol@qversoft.com">Qversoft Team</author>
   <content src="index.html"/>
@@ -7,9 +7,9 @@
   <preference name="orientation" value="default"/>
   <preference name="target-device" value="universal"/>
   <preference name="fullscreen" value="true"/>
-  <preference name="webviewbounce" value="true"/>
+  <preference name="webviewbounce" value="false"/>
   <preference name="prerendered-icon" value="true"/>
-  <preference name="stay-in-webview" value="false"/>
+  <preference name="stay-in-webview" value="true"/>
   <preference name="ios-statusbarstyle" value="black-opaque"/>
   <preference name="detect-data-types" value="true"/>
   <preference name="exit-on-suspend" value="false"/>
